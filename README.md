@@ -139,7 +139,7 @@ Logs are saved in a file named `FileHierarchy2csv.log.txt` by default, located i
     - `PresentationCore`
     - `PresentationFramework`
 
-These are required if the script is run with the GUI.
+These are required if the script is run with the GUI. The dependencies should be loaded automatically because the script uses powershell default modules
 
 ---
 
